@@ -1,0 +1,32 @@
+{
+	"storyName": "Dr Fluttershy",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "cottage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		242,
+		236,
+		164
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Dr Fluttershy",
+			"fs",
+			[
+				242,
+				236,
+				164
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Dr Fluttershy"
+}
